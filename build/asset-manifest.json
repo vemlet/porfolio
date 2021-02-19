@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.767143e1.chunk.css",
+    "main.js": "/static/js/main.89b8cc9c.chunk.js",
+    "main.js.map": "/static/js/main.89b8cc9c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a7a6da1b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a7a6da1b.js.map",
+    "static/css/2.4483a5c2.chunk.css": "/static/css/2.4483a5c2.chunk.css",
+    "static/js/2.e84968f7.chunk.js": "/static/js/2.e84968f7.chunk.js",
+    "static/js/2.e84968f7.chunk.js.map": "/static/js/2.e84968f7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a5bbe209f37e11abd771e0a2351a9e80.js": "/precache-manifest.a5bbe209f37e11abd771e0a2351a9e80.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.4483a5c2.chunk.css.map": "/static/css/2.4483a5c2.chunk.css.map",
+    "static/css/main.767143e1.chunk.css.map": "/static/css/main.767143e1.chunk.css.map",
+    "static/js/2.e84968f7.chunk.js.LICENSE.txt": "/static/js/2.e84968f7.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/static/media/arrow.a74212b6.svg",
+    "static/media/contact-info-icon1.svg": "/static/media/contact-info-icon1.04e4f259.svg",
+    "static/media/contact-info-icon2.svg": "/static/media/contact-info-icon2.df4fdedf.svg",
+    "static/media/contact-info-icon3.svg": "/static/media/contact-info-icon3.3cf93bcf.svg",
+    "static/media/dribble.svg": "/static/media/dribble.db57da79.svg",
+    "static/media/facebook.svg": "/static/media/facebook.aa1e8c9c.svg",
+    "static/media/logo-yellow.svg": "/static/media/logo-yellow.789bce48.svg",
+    "static/media/logo.svg": "/static/media/logo.39c5f3c6.svg",
+    "static/media/mobile-close.svg": "/static/media/mobile-close.f521cf45.svg",
+    "static/media/mobile-menu.svg": "/static/media/mobile-menu.10823520.svg",
+    "static/media/partner01.svg": "/static/media/partner01.1f6de9f0.svg",
+    "static/media/partner02.svg": "/static/media/partner02.d8f2a498.svg",
+    "static/media/partner03.svg": "/static/media/partner03.0d091731.svg",
+    "static/media/partner04.svg": "/static/media/partner04.81292e3c.svg",
+    "static/media/partner05.svg": "/static/media/partner05.d39e28a3.svg",
+    "static/media/partner06.svg": "/static/media/partner06.a0c63ad5.svg",
+    "static/media/twitter.svg": "/static/media/twitter.0ecdf21a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7a6da1b.js",
+    "static/css/2.4483a5c2.chunk.css",
+    "static/js/2.e84968f7.chunk.js",
+    "static/css/main.767143e1.chunk.css",
+    "static/js/main.89b8cc9c.chunk.js"
+  ]
+}
